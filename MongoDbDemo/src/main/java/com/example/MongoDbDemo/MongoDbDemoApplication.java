@@ -12,5 +12,4 @@ public class MongoDbDemoApplication {
 		SpringApplication.run(MongoDbDemoApplication.class, args);
 	}
 
-	/*mongodb+srv://root:<password>@cluster0.lboxh1t.mongodb.net/?retryWrites=true&w=majority*/
 }
